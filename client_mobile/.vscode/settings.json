@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": true,
+    "cSpell.words": [
+        "audioplayers"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/linux/flutter"
+}
